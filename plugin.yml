@@ -1,0 +1,12 @@
+name: TotemName
+main: fr.smourad.totemname.Main
+version: 1.0
+author: smourad
+
+commands:
+  start:
+    description: Start the game
+    usage: /<command>
+  finish:
+    description: Finish the game
+    usage: /<command>
